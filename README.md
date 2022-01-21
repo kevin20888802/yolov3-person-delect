@@ -6,10 +6,12 @@
 下載Source Code 
  
 2.
+```
 pip install cv2 
 pip install numpy 
 pip install matplotlib 
- 
+```
+
 3. 
 執行 
  
