@@ -15,4 +15,4 @@ pip install matplotlib
 
 4.
 正確結果
-![GIFimg](20220120.GIF)
+![GIFimg](20220120_0.GIF)
